@@ -93,4 +93,4 @@ This project is licensed under the **MIT License**.
 ## 🙌 Author
 
 Made with 💙 by **Moiz Ahmed**  
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile) *(optional)*
+[LinkedIn Profile](https://www.linkedin.com/in/moiz-ahmed-6516b728a/) *(optional)*
